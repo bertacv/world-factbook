@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, we'll work with data from the [CIA World Factbook](https://www.cia.gov/the-world-factbook/), a compendium of statistics about all of the countries on Earth.
+In this project, we work with data from the [CIA World Factbook](https://www.cia.gov/the-world-factbook/), a compendium of statistics about all of the countries on Earth.
 
 We use a Jupyter Notebook and SQL to analyze data from this database, called `factbook.db`.
 
