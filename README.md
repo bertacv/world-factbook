@@ -15,7 +15,9 @@ This it the first SQL project of the Dataquest learning program.
 
 This project consists of a exploratory analysis of the demographics of the world. 
 
-It first searches for any outlier or wrong data in the database to exclude them from the analysis. Then it answers the following questions:
+It first searches for any outlier or wrong data in the database to exclude them from the analysis. 
+
+Then we answer the following questions:
 
 - Which are the average population and area?
 - Which are the most densely populated countries?
