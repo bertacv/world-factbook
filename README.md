@@ -7,7 +7,7 @@ In this project, we work with data from the [CIA World Factbook](https://www.cia
 We use a Jupyter Notebook and SQL to analyze data from this database, called `factbook.db`.
 
 - Data: [factbook.db](https://github.com/bertacv/world-factbook-SQL/blob/main/data/factbook.db)
-- Notebook: [Analyzing CIA Factbook Data using SQL](https://github.com/bertacv/world-factbook-SQL/blob/main/notebooks/Analyzing%20CIA%20Factbook%20Data%20using%20SQL.ipynb)
+- Notebook: [Analyzing CIA Factbook Data using SQL](https://github.com/bertacv/world-factbook/blob/main/notebooks/Analyzing-CIA-Factbook-Data-w-SQL.ipynb)
 
 This it the first SQL project of the Dataquest learning program.
 
